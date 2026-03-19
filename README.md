@@ -41,5 +41,5 @@ This project showcases an **interactive Sales Dashboard built using Microsoft Ex
 ---
 
 ## Dashboard Preview
-
+---
 ![Dashboard Images](https://res.cloudinary.com/dabzcxadz/image/upload/v1773837069/Screenshot_2026-03-13_223816_zcabfv.png)
